@@ -11,6 +11,7 @@ public class HelloGit {
 		System.out.println("第二次提交之前更新");
 		System.out.println("测试ssh");
 		System.out.println("测试ssh");
+		System.out.println("测试ssh");
 	}
 
 }
