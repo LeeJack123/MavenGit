@@ -11,7 +11,6 @@ public class TestGit01 {
 		System.out.println("hot_fixhot_fix");
 		System.out.println("hot_fix");
 		System.out.println("hot_fix");
-		System.out.println("hot_fix11");
 	}
 
 }
